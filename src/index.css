@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 500px;
+  height: 100vh;
+  margin: 0;
+  padding: 20px;
+  background-color: #DCCFEC;
+  display: flex;
+  justify-content: center;
+  color: white;
+}

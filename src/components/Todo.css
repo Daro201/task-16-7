@@ -1,0 +1,11 @@
+.TodoItem {
+  list-style: none;
+  text-align: center;
+}
+
+
+.TodoItem:hover {
+  list-style: none;
+  background-color: #A997DF;
+  cursor: pointer;
+}
